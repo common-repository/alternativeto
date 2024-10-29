@@ -1,0 +1,153 @@
+#a2widget body, #a2widget div, #a2widget dl, #a2widget dt, #a2widget dd, #a2widget ul, #a2widget ol, #a2widget li, #a2widget h1, #a2widget h2, #a2widget h3, #a2widget a #a2widget h4, #a2widget h5, #a2widget h6, #a2widget pre, #a2widget form, #a2widget fieldset, #a2widget input, #a2widget textarea, #a2widget p, #a2widget blockquote, #a2widget th, #a2widget td {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    border: none;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+    list-style: none;
+    text-transform: none;
+    text-indent: 0px;
+    font-variant: normal;
+    line-height: 14px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+}
+#a2widget table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+#a2widget fieldset, #a2widget img {
+    border: 0;
+}
+#a2widget address, #a2widget caption, #a2widget cite, #a2widget code, #a2widget dfn, #a2widget em, #a2widget strong, #a2widget th, #a2widget var {
+    font-style: normal;
+    font-weight: normal;
+}
+#a2widget ol, #a2widget ul {
+    list-style: none;
+}
+#a2widget caption, #a2widget th {
+    text-align: left;
+}
+#a2widget h1, #a2widget h2, #a2widget h3, #a2widget h4, #a2widget h5, #a2widget h6 {
+    font-size: 100%;
+    font-weight: normal;
+    padding: 0;
+}
+#a2widget q:before, #a2widget q:after, #a2widget li:before {
+    content: '';
+}
+
+#a2widget abbr, #a2widget acronym {
+    border: 0;
+}
+
+#a2widget ol, #a2widget ul {
+    list-style: none;
+    text-indent: 0;
+    margin: 0;
+}
+
+#a2widget hr {
+    height: 1px !important;
+    color: #eaeaea !important;
+    background: #eaeaea !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 2px 0 0 0 !important;
+}
+
+#a2widget a:link, #a2widget a:visited {
+    color: #1573AE !important;
+    text-decoration: none !important;
+    border: none !important;
+}
+#a2widget a:hover, #a2widget a:active {
+    color: #7890AF !important;
+    text-decoration: none !important;
+    border: none !important;
+}
+#a2widget {
+    border: 1px solid #eaeaea !important;
+    font-family: Arial, helvetica, Sans-Serif !important;
+    font-size: small !important;
+    color: #353535 !important;
+    margin: 10px 0 10px 0 !important;
+    background-color: White !important;
+}
+#a2widget .a2header h2, #a2widget .a2header p, #a2widget .a2list-content ul, #a2widget .a2list-content h2, .a2header-right h2 {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: Arial, helvetica, Sans-Serif !important;
+    color: #353535 !important;
+    text-decoration: none !important;
+    text-transform: none !important;
+}
+#a2widget .a2header {
+    border-bottom: 1px solid #eaeaea !important;
+    padding: 6px 8px 2px 2px;
+}
+#a2widget .a2header h2 {
+    font-size: 120% !important;
+    padding: 3px 0 0 0 !important;
+    font-weight: bold !important;
+}
+#a2widget .a2icon
+{
+    float: left !important;
+    text-align: center !important;
+    margin: 0 3px 0 5px !important;
+}
+#a2widget .a2icon img
+{
+    width: 28px !important;
+    height: 28px !important;
+    padding: 0 2px 4px 0 !important;
+    display: block !important;
+}
+#a2widget .a2header em {
+    font-size: 75% !important;
+    display: block !important;
+    font-style: normal !important;
+    white-space: nowrap !important;
+    color: #616060 !important;
+    margin: 0 0 3px 0;
+}
+
+#a2widget .a2list-content {
+    background-color: #f5faff !important;
+    padding: 0 0 8px 0 !important;
+}
+#a2widget .a2list-content h2 {
+    padding: 10px 8px 4px 8px !important;
+    font-size: 110% !important;
+    color: #353535 !important;
+    font-style: normal !important;
+}
+#a2widget .a2list-content h2 a {
+    font-weight: bold !important;
+}
+#a2widget .a2list-content ul {
+    list-style-type: none !important;
+    padding: 0 8px 8px 8px !important;
+}
+#a2widget .a2list-content ul li {
+    float: left !important;
+    width: 48% !important;
+    margin: 2px 5px 2px 0 !important;
+    list-style: none !important;
+}
+#a2widget .a2list-content ul li em {
+    font-size: 75% !important;
+    display: block !important;
+    font-style: normal !important;
+    white-space: nowrap !important;
+    color: #616060 !important;
+}
+#a2widget .a2list-content ul li a {
+    font-weight: bold !important;
+    padding-top: 2px !important;
+    display: block !important;
+}
